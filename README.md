@@ -12,8 +12,6 @@ Sistema web de gestión de reservas desarrollado con Spring Boot para el Restaur
 - [Uso](#-uso)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Seguridad](#-seguridad)
-- [Despliegue](#-despliegue)
-- [Contribuciones](#-contribuciones)
 - [Licencia](#-licencia)
 
 ## ✨ Características
@@ -190,7 +188,7 @@ restaurante-carmen/
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT
 
 ## 👨‍💻 Autor
 
